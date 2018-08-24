@@ -1,0 +1,7 @@
+{
+  "name": "Explorepin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
